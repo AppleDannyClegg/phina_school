@@ -1,0 +1,20 @@
+{
+  "name": "phina_school",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "live-server ./src/public"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "express": "^5.0.1",
+    "nodemon": "^3.1.9"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}

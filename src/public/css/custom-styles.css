@@ -1,0 +1,10 @@
+.navbar-brand {
+  font-size: 30px !important;
+  font-weight: 500;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.img-thumbnail {
+  border-color: black;
+}
