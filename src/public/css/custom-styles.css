@@ -8,3 +8,7 @@
 .img-thumbnail {
   border-color: black;
 }
+
+.img-blur {
+  filter: blur(5px);
+}
